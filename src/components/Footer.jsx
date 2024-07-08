@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-around',
         paddingVertical: 12,
         borderTopWidth: 0.2,
-        borderTopColor: '#ddd',
+        borderTopColor: '#ccc',
     },
     profilepic: {
         width: 24,

@@ -32,8 +32,7 @@ const styles = StyleSheet.create({
         paddingHorizontal: 15,
         backgroundColor: '#fff',
         borderBottomWidth: 0.2,
-        borderBottomColor: '#ddd',
-        elevation: 2,
+        borderBottomColor: '#ccc',
     },
     logo: {},
     send: {

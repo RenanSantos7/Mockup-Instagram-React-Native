@@ -1,29 +1,21 @@
 
-`![Print do Banner](./public/assets/print-banner.png)`
+<!--![Print do Banner](./public/assets/print-banner.png) -->
 
-# Olá Mundo
+# Mockup Instagram
 
-Este é um projeto em React desenvolvido no curso *React: desenvolvendo em React Router com JavaScript* da [Alura](https://cursos.alura.com.br/).
-  
->[!NOTE]
->[Repositório do curso](https://github.com/alura-cursos/3652-react-forms)
+Este é um projeto em React Native desenvolvido no curso *Fábrica de Aplicativos* do [Sujeito Programador](https://github.com/sujeitoprogramador).
+
 ## Tecnologias utilizadas
 
-- [React](https://react.dev)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Styled Components](https://styled-components.com/)
-
-## Como acessar online
-
-O deploy do projeto foi feito pelo [Netilify](https://www.netlify.com/) e está disponível em https://ola-mundo-alura.netlify.app/
-
-O deploy do projeto foi feito pela [Vercel](https://vercel.com/) e está disponível em https://cinetag-renansantos7.vercel.app/
+- [ReactNative](https://react.dev)
+- [Expo](https://expo.dev)
+- [FontAwesome](https://fontawesome.com/)
 
 ## Como rodar localmente
 
-Este projeto foi criado usando [Vite](https://vite.dev), portanto você pode seguir a documentação desse script para fazer deploy do site localmente.
+Este projeto foi criado usando Expo, portanto você pode seguir a documentação dessa biblioteca para fazer deploy do app localmente.
 
-No caso, primeiro você precisará baixar o projeto com executando o seguinte comando no terminal:
+No caso, primeiro você precisará baixar o projeto executando o seguinte comando no terminal:
 
 ```
 git clone https://github.com/RenanSantos7/ola-mundo-react-router.git
@@ -38,10 +30,10 @@ npm i
 E por fim rode o projeto com:
 
 ```
-npm run dev
+npm run start
 ```
 
-O terminal mostrará o endereço para acessar o site no qual você pode clicar para abri-lo. Você também pode apertar `o` e depois `Enter` para fazer isso.
+Agora, em seu *smartphone*, instale o app **ExpoGo** a partir da loja de aplicativos e com ele leia o QRCode  ou insira a URI fornecidos pelo expo no terminal do seu computador.
 
 ## Licensa
 
